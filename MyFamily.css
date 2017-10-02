@@ -1,0 +1,27 @@
+ #container{
+     background-color:#ee82ee;
+     height:300px;
+     width:1150px;
+     
+ }
+ 
+ #header{
+   background-color:#ffa500;
+   margin-bottom:0;
+   font-size:20px;
+   height:800px;
+   width:1150px;
+ }
+ #menu{
+   background-color:#3cb371;
+   height:800px;
+   width:150px;
+   float:left;
+ }
+ 
+ #content{
+   background-color:#ee82ee;
+   height:800px;
+   width:1000px;
+   float:left;
+ }
